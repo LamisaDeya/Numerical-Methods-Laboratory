@@ -172,8 +172,4 @@
 
 ---
 
-## License
-[Add your license information]
 
-## Contributors
-[Add contributors]
