@@ -22,7 +22,7 @@
     - [Input](#matrix-inversion-input)
     - [Output](#matrix-inversion-output)
 
-- Solution of Non-Linear Equations
+- [Solution of Non-Linear Equations](#solution-of-non-linear-equations)
   - [Bisection Method](#bisection-method)
     - [Theory](#bisection-theory)
     - [Code](#bisection-code)
@@ -126,7 +126,7 @@
 
 ---
 
-## Solution of Non-Linear Equations
+### Solution of Non-Linear Equations
 
 ### Bisection Method
 
